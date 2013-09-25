@@ -9,7 +9,7 @@
 
 TinyGPS gps;
 // For RX and TX serial port number in seq.
-SoftwareSerial ss(1, 0);
+SoftwareSerial ss(2, 3);
 
 void setup()
 {
